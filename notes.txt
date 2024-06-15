@@ -1,0 +1,12 @@
+mkdir fol
+cd fol
+
+npm init
+    fill details -> creates package.json
+npm install express
+
+
+middileware 
+npm install body-parser 
+
+
